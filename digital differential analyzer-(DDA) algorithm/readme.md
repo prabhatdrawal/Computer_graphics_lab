@@ -1,3 +1,8 @@
+The out using the matplotlib of the given python script of the dda lab is as mentoined and observe from the picture below:
+
+<img width="1440" alt="Screenshot 2025-05-23 at 22 48 08" src="https://github.com/user-attachments/assets/52c74a48-544d-40b4-8a35-31a6e52ffda9" />
+
+
 DDA (Digital Differential Analyzer) is a line drawing algorithm used in computer graphics to generate a line segment between two specified endpoints. It is a simple and efficient algorithm that works by using the incremental difference between the x-coordinates and y-coordinates of the two endpoints to plot the line.
 
 The steps involved in DDA line generation algorithm are:
@@ -58,4 +63,6 @@ some limitations and issues, which are:
 - Aliasing: Aliasing occurs when the line segments generated using the DDA algorithm do not accurately represent the line being drawn, resulting in a jagged appearance.
 - Not suitable for thick lines: The DDA algorithm generates thin lines, which can be problematic when drawing thick lines, as the line segments may overlap or leave gaps.
 
-Information taken from geeksforgeeks.
+
+Theory Information taken from geeksforgeeks.
+
