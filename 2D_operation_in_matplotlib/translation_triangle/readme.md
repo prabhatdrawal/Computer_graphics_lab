@@ -38,6 +38,9 @@ This shifts the entire triangle without altering its shape, size, or orientation
 In matrix form, translation can be represented using homogeneous coordinates. A 2D point (x, y) becomes (x, y, 1), and the translation is performed using a transformation matrix:
 
 ​
+[ 1  0  tx ]
+[ 0  1  ty ]
+[ 0  0   1 ]
 
 
 **5. Applications**
