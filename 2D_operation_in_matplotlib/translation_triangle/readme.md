@@ -1,3 +1,4 @@
+![Uploading Screenshot 2025-06-23 at 18.36.11.png…]()
 
 
 **Theory of Translating a Triangle in Computer Graphics**
