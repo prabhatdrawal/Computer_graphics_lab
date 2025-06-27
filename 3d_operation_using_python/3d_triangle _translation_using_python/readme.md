@@ -1,3 +1,10 @@
+## **OUTPUT
+
+![Uploading Screenshot 2025-06-27 at 11.25.15.png…]()
+
+
+
+
 ###  **Theory of 3D Scaling Transformation in Computer Graphics**
 
 ---
