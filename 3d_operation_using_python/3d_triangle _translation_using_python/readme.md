@@ -1,14 +1,14 @@
-### 📘 **Theory of 3D Scaling Transformation in Computer Graphics**
+###  **Theory of 3D Scaling Transformation in Computer Graphics**
 
 ---
 
-### ✅ **Introduction**
+### **Introduction**
 
 In **computer graphics**, **3D scaling** is a basic geometric transformation used to change the **size** of a 3D object. It can increase (enlarge) or decrease (shrink) the dimensions of the object along the **X, Y, and Z axes**. This transformation is applied by multiplying the coordinates of the object by **scaling factors**.
 
 ---
 
-### ✅ **Mathematical Representation**
+###  **Mathematical Representation**
 
 If a point $P(x, y, z)$ is scaled, the new coordinates $P'(x', y', z')$ after scaling are:
 
@@ -28,7 +28,7 @@ Where:
 
 ---
 
-### ✅ **Homogeneous Coordinates and Scaling Matrix**
+###  **Homogeneous Coordinates and Scaling Matrix**
 
 In computer graphics, transformations are usually performed using **matrix multiplication** in **homogeneous coordinates**. A 3D point is written as a 4×1 matrix:
 
@@ -76,7 +76,7 @@ $$
 
 ---
 
-### ✅ **Scaling with Respect to a Fixed Point**
+###  **Scaling with Respect to a Fixed Point**
 
 By default, scaling is done with respect to the **origin** $(0, 0, 0)$.
 To scale with respect to any **fixed point** $(x_f, y_f, z_f)$, follow these steps:
@@ -93,7 +93,7 @@ $$
 
 ---
 
-### ✅ **Applications of 3D Scaling**
+###  **Applications of 3D Scaling**
 
 * Resizing 3D models in animation or CAD.
 * Zooming in/out in virtual environments.
