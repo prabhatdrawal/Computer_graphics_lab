@@ -20,15 +20,16 @@ x3 , y3 , z3  = int(input('enter the x cordinate : ')), int(input('enter the y -
 # translation of triangle above mentioned using the parameter (tx,ty)
 
 tx , ty , tz = int(input('enter the translation in x direction :')), int(input('enter the translation in y direction :')) , int(input('enter the translation in y direction :'))
-xt1 = x1 + tx 
+
+xt1 = x1 + tx  #translating the x ponts by tx variable
 xt2 = x2 + tx
 xt3 = x3 + tx
 
-yt1 = y1 + tx
-yt2 = y2 + tx
-yt3 = y3 + tx
+yt1 = y1 + ty   #translating the y points by ty variable
+yt2 = y2 + ty
+yt3 = y3 + ty
 
-zt1 = z1 + tz
+zt1 = z1 + tz  #translating the z points by tz variable
 zt2 = z2 + tz
 zt3 = z3 + tz
 
